@@ -1,0 +1,17 @@
+table {
+    border: 3px solid black;
+    border-collapse: collapse;
+    width: 800px;
+    font-size: 25px;
+    table-layout: fixed
+ }
+ /* границы ячеек первого ряда таблицы */
+ tr, td, th {
+    border: 1px solid black;
+    text-align: center;
+ }
+ /* границы ячеек тела таблицы */
+ .ab2 {
+    background-color: rgb(151, 151, 195);
+ }
+ 
